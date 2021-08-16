@@ -1,12 +1,14 @@
 
+.title{
+	font-size:25 px;
+	font-weight:bold;
 
-
-.redelement{
-	background-color:red;
+.subtitle{
+	
 	font-weight:bold;
 }
 
 .blueelement{
-	background-color:blue;
+	
 	font-weight:bold;
 }
