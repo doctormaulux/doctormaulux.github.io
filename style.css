@@ -3,8 +3,10 @@
 
 .redelement{
 	background-color:red;
+	font-weight:bold;
 }
 
 .blueelement{
 	background-color:blue;
+	font-weight:bold;
 }
