@@ -7,9 +7,9 @@
 	font-weight:bold;
 }
 
-img {
-	width:80px;
+.img {
 	height:80px;
+	width:80px;
 	border-radius:50px;
 }
 
