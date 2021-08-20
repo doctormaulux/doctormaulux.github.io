@@ -2,9 +2,14 @@
 .title{
 	font-size: 25px;
 	font-weight:bold;
+	text-align: center;
 
 .subtitle{
 	font-weight:bold;
+}
+
+body{
+	text-align: center;
 }
 
 img {
@@ -13,6 +18,3 @@ img {
 	border-radius:50px;
 }
 
-body{
-text-align: center;
-}
