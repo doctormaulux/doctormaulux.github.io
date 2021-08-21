@@ -17,11 +17,8 @@ img {
 	font-weight:bold;
 }
 
-body {
-	text-align: center;
-}
 
 .list{
+	background-color: coral;
 	text-align: center;
-	border:2px ;
 }
