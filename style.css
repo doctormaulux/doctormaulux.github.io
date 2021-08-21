@@ -20,4 +20,5 @@ img {
 .sections {
 	background-color: coral;
 	text-align: center;
+	border: solid 5px plum;
 }
