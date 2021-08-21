@@ -1,4 +1,11 @@
 
+
+img {
+	height:80px;
+	width:80px;
+	border-radius:50px;
+}
+
 .title{
 	font-size: 25px;
 	font-weight:bold;
@@ -12,9 +19,6 @@ body{
 	text-align: center;
 }
 
-img {
-	height:80px;
-	width:80px;
-	border-radius:50px;
+.list{
+	text-align: center;
 }
-
