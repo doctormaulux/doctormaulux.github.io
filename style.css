@@ -7,17 +7,21 @@ img {
 	
 }
 
-.title {
+body {
+	text-align: center;
+}
+
+h1 {
 	font-size: 25px;
 	font-weight:bold;
 	text-align: center;
 
-.subtitle {
+h2 {
 	font-weight:bold;
 }
 
 
-.sections {
+div {
 	background-color: coral;
 	text-align: center;
 	border: solid 5px plum;
