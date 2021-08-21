@@ -4,6 +4,8 @@ img {
 	height:80px;
 	width:80px;
 	border-radius:50px;
+	margin:10px;
+	border:2px color:black;
 }
 
 .title{
@@ -15,7 +17,7 @@ img {
 	font-weight:bold;
 }
 
-body{
+body {
 	text-align: center;
 }
 
