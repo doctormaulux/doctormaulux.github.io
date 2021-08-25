@@ -1,27 +1,49 @@
+
+h1 {
+	font-family: Arial;
+	font-size: 25px;
+	font-weight:bold;
+	text-align: center;
+	border: solid 5px plum;
+	background-color:lightYellow;
+}
+
+
+
+
+
+.container {
+	font-family: Arial;
+	border: solid 2px #806868;
+	display: flex;
+	flex-direction:row;
+	justify-content: space-around;
+}
+
+.item {
+	font-family: Arial;
+	flex-basis: 50%;
+	border: solid 5px plum;
+	background-color:lightBlue;
+}
+
+
 img {
 	height:80px;
 	width:80px;
 	border-radius:40px;
 	border: solid 5px plum;
-	text-align: center;
+	display:block;
+    margin:0px auto;
+    text-align:center;
 }
 
 
-h1 {
-	font-size: 25px;
-	font-weight:bold;
-	text-align: center;
-	border: solid 5px plum;
-}
+
 
 h2 {
-	font-weight:bold;
 	text-align: center;
 }
 
 
-div {
-	background-color: lightBlue;
-	border: solid 5px plum;
-	
-}
+
